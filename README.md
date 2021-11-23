@@ -21,13 +21,12 @@ Using the patterns you find in the train.csv data, predict whether the other 418
 
 ## Files
 
-#### Notebook 
-/my_submission.ipynb
+#### Notebook: 
+[my_submission.ipynb]
 
-#### Train data
-/train.csv
+#### Train and test data:
+[train.csv]
+[test.csv]
 
-#### Test data
-/test.csv
 
-#### This ML model performed 0,78708. The target score was 0.76555
+#### This ML model performed 0,78708 with Random Forest Classifier. The target score was 0.76555
