@@ -28,7 +28,7 @@ Using the patterns you find in the train.csv data, predict whether the other 418
 [train.csv](/train.csv)
 [test.csv](/train.csv)
 
-# Challenge link:
+## Challenge link:
 https://www.kaggle.com/c/titanic/
 \
 \
