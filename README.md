@@ -27,7 +27,7 @@ Using the patterns you find in the train.csv data, predict whether the other 418
 #### Train and test data:
 [train.csv](/train.csv)
 [test.csv](/train.csv)
-
-
-
+\
+\
+\
 This ML model performed 0,78708 with Random Forest Classifier. The target score was 0.76555
