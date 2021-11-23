@@ -1,5 +1,8 @@
 # Titanic
 
+## Challenge link:
+https://www.kaggle.com/c/titanic/
+
 ## The Challenge
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
@@ -27,9 +30,6 @@ Using the patterns you find in the train.csv data, predict whether the other 418
 #### Train and test data:
 [train.csv](/train.csv)
 [test.csv](/train.csv)
-
-## Challenge link:
-https://www.kaggle.com/c/titanic/
 \
 \
 \
