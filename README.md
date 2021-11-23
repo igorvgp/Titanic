@@ -22,13 +22,11 @@ Using the patterns you find in the train.csv data, predict whether the other 418
 ## Files
 
 #### Notebook: 
-[my_submission.ipynb]
+[my_submission.ipynb](/my_submission.ipynb)
 
 #### Train and test data:
-[train.csv]
-[test.csv]
-
-
+[train.csv](/train.csv)
+[test.csv](/train.csv)
 
 
 
