@@ -34,4 +34,4 @@ Using the patterns you find in the train.csv data, predict whether the other 418
 \
 \
 \
-*This ML model performed 0,78708 score with Random Forest Classifier. The target score was 0.76555*
+*This ML model performed 0,78708 score with Random Forest Classifier. The target score was 0.76555.*
