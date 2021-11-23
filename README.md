@@ -1,5 +1,5 @@
 # Titanic
-\
+
 ## The Challenge
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
@@ -31,4 +31,4 @@ Using the patterns you find in the train.csv data, predict whether the other 418
 \
 \
 \
-This ML model performed 0,78708 with Random Forest Classifier. The target score was 0.76555
+*This ML model performed 0,78708 with Random Forest Classifier. The target score was 0.76555*
